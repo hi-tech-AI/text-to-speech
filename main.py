@@ -114,4 +114,4 @@ except OSError as error:
 
 except Exception as error:
     traceback.print_exception(*sys.exc_info())
-    print("Someting went wrong; please report the issue at https://github.com/vishalnagda1/text-to-speech/issues")
+    print("Someting went wrong; please report the issue at https://github.com/hi-tech-AI/text-to-speech/issues")

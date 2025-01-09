@@ -98,7 +98,7 @@ Your system should have **soundcard** on it. You can check this by ```aplay -l``
 
 #### Contributing
 
-1. Fork it ( https://github.com/vishalnagda1/text-to-speech/fork )
+1. Fork it ( https://github.com/hi-tech-AI/text-to-speech/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
